@@ -36,6 +36,7 @@ http://localhost:3000/api-docs
 
 ## Структура проєкту
 
+```
 announcement-api/
 ├── prisma/
 │   ├── migrations/
@@ -50,6 +51,7 @@ announcement-api/
 ├── prisma.config.ts
 ├── package.json
 └── package-lock.json
+```
 
 ---
 
